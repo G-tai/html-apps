@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/cn-ml/:path*", "destination": "https://china-cloud.byteamone.cn/:path*" },
+  ]
+}
